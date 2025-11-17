@@ -3,7 +3,7 @@ module pythoninthegrass/go_download
 go 1.21.3
 
 require (
-	github.com/PuerkitoBio/goquery v1.8.1
+	github.com/PuerkitoBio/goquery v1.11.0
 	github.com/joho/godotenv v1.5.1
 )
 
